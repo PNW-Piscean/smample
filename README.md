@@ -1,0 +1,2 @@
+# smample
+my smample
